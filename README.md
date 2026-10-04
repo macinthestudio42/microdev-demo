@@ -1,6 +1,6 @@
 # Your first MicroDev task
 
-[![Open in MicroDev](https://microdev.dev/assets/open-in-microdev.svg)](https://microdev.dev/start?repository=microdev-dev/microdev-demo)
+[![Open in MicroDev](https://microdev.dev/assets/open-in-microdev.svg)](https://microdev.dev/start?repository=macinthestudio42/microdev-demo)
 
 Open the sample in your browser, sign in with GitHub, and launch it with your SSH
 public key. The link selects this repository; it does not launch compute until
